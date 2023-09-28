@@ -1,0 +1,44 @@
+.top_banner {
+  background-color: aqua;
+}
+.top_banner .logo {
+  width: 3.3rem;
+  height: 3rem;
+}
+.top_banner a {
+  text-decoration: none;
+  color: black;
+}
+
+.banner {
+  background-color: rgb(230, 122, 0);
+  margin-top: 2rem;
+  text-align: center;
+}
+.banner h1 {
+  color: rgb(255, 255, 255);
+  font-family: serif;
+  font-size: 3rem;
+  padding: 1rem;
+  font-weight: bolder;
+}
+h2 {
+  margin-left: 2rem;
+  padding-top: 2rem;
+  font-family: fantasy;
+}
+.info {
+  margin-left: 2rem;
+  padding-bottom: 3rem;
+  font-family: serif;
+}
+.info p h3 {
+  font-family: serif;
+}
+.info p {
+  font-size: 1.2rem;
+}
+.info a {
+  text-decoration: none;
+}
+

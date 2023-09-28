@@ -1,0 +1,94 @@
+.navbar {
+  padding-left: 2rem;
+  padding-right: 2rem;
+  box-shadow: none;
+  border: none;
+}
+.navbar-brand {
+  display: flex;
+  align-items: center;
+}
+.logo {
+  height: 3rem;
+}
+.web-name {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+.xe {
+  color: orange;
+  font-weight: bolder;
+  font-size: 1.6rem;
+}
+
+.all-Categories1 {
+  background-color: rgb(235, 235, 235);
+  color: black;
+}
+.All-Categories {
+  font-size: 1.2rem;
+}
+.All-Categories:hover {
+  background-color: rgb(116, 116, 116);
+  font-size: 1.4rem;
+  width: fit-content;
+  color: rgb(83, 83, 83);
+}
+
+/* Navbar styling  */
+
+.navbar1 {
+  background-color: rgb(245, 245, 245);
+  color: white;
+  margin-top: 3.5rem;
+  display: flex;
+  box-shadow: 0px 0px 2px black;
+  padding-top: 3px;
+  padding-bottom: 5px;
+  position: relative;
+  width: 100%;
+}
+.navbar1-items {
+  text-decoration: none;
+  color: rgb(83, 83, 83);
+  font-weight: 500;
+}
+.navbar1-items:hover {
+  color: rgb(170, 170, 170);
+}
+
+@media screen and (max-width: 767px) and (min-width: 150px) {
+  .All-Categories {
+    overflow-x: scroll;
+  }
+  .navbar1 {
+    display: none;
+  }
+  .navbar-brand1 {
+    position: relative;
+    text-align: right;
+    justify-content: right;
+    align-items: end;
+    top: -2.5rem;
+    z-index: -1;
+  }
+  .web-name {
+    font-size: 2rem; 
+  }
+  .web-name.ex {
+    font-size: 4rem;
+  }
+  .logo {
+    display: none;
+  }
+   
+}
+
+/* tablet responsive  */
+
+@media screen and (max-width: 912px) and (min-width: 768px) {
+  .navbar1 {
+    margin-top: 2rem;
+    padding-top: 1rem;
+  }
+}

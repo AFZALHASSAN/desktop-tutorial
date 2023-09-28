@@ -1,5 +1,5 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+# ecommerce-app-2023
+complete mern stack ecommerce project 2023 complete code
+# Please check branches source code is video no wise 
+## here is project playlist : https://youtube.com/playlist?list=PLuHGmgpyHfRzhGkSUfY0vpi67X64g0mXB
+## please like subscribe and share TechinfoYT youtube chaannel
